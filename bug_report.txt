@@ -1,1 +1,13 @@
-
+ID: 20,
+Severity: Major,
+Environment: Vivo V21 Android 13,
+Title: Cryptogram link is not redirected to Google play and  error message appears in Our products section after tapping Cryptogram link,
+Precondition: 
+1.ComiCoin app is downloaded 
+2. Launch app
+Steps: 
+1. Tap burger menu 
+2. Tap Our products section 
+3. Tap Cryptogram link
+Actual result: Cryptogram link is not redirected to Google play and  error message appears:net::ERR_CONNECTION_CLOSED,
+Expected result: The app is redirected to Google play
