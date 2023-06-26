@@ -1,0 +1,4 @@
+name: Verzunova Kseniya Viktorovna,
+age: 29,
+pet: 1 cat,
+salary: 3000$
