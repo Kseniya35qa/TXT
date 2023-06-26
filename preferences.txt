@@ -1,0 +1,5 @@
+favorite movie: 1+1,
+favorite TV series: Yellowstone,
+favorite food: lasagna, 
+favorite time of the year: spring,
+the country I want to visit: Sri lanka
